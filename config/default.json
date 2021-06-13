@@ -1,0 +1,6 @@
+{
+   "port": 5000,
+   "jwtSecret": "Roman",
+    "mongoUri": "mongodb+srv://Roman_01:29031991@cluster0.qrchw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http//localhost:5000"
+}
